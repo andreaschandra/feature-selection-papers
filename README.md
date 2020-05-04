@@ -37,19 +37,19 @@ Alghamdi, H., Selamat, A.,|The Hybrid Feature Selection k-means Method for Arabi
 Author|Title|Year|Publishing|Journal Ranking
 ---|---|---|---|---
 Belkebir, R., Guessoum, A.|A Hybrid BSO-Chi2-SVM Approach to Arabic Text Categorization|2013|ACS International Conference on Computer Systems and Applications (AICCSA)|---
----|A VNS algorithm for feature selection in hierarchical classiﬁcation context|---|---|---
----|Feature Selection using Artificial Bee Colony for Cardiovascular Disease Classification|---|---|---
----|Filter-Wrapper Approach to Feature Selection Using PSO-GA for Arabic Document Classification with Naive Bayes Multinomial|---|---|---
----|Fire Fly Based Feature Selection Approach|---|---|---
----|Firefly Algorithm based Feature Selection for Arabic Text Classification|---|---|---
----|Hybrid ACO and TOFA Feature Selection Approach for Text Classification|---|---|---
----|Support Vector Machine Text Classification System_ Using Ant Colony Optimization Based Feature Subset Selection|---|---|---
----|Text feature selection using ant colony optimization|---|---|---
----|Text Feature Selection using Particle Swarm Optimization Algorithm|---|---|---
----|Firefly Optimization Algorithm for Feature Selection|---|---|---
----|Improved particle swarm optimization in algorithm and its application in text feature selection|---|---|---
----|Link based BPSO for feature selection in big data text clustering|---|---|---
----|Optimization approach for feature selection in multi-label classification|---|---|---
----|Particle Swarm Optimization for Feature Selection in Classification_ A Multi-Objective Approach|---|---|---
----|Statistical Analysis for Validating ACO-KNN Algorithm as Feature Selection in Sentiment Analysis|---|---|---
----|Web Page Classification Using Firefly Optimization|---|---|---
+Costa, H., Galvao, L. R., Merschmann, L. H. C., Souza, M. J. F.|A VNS algorithm for feature selection in hierarchical classiﬁcation context|2018|Electronic Notes in Discrete Mathematics|---
+Subanya, B., Rajalaxmi, R. R.|Feature Selection using Artificial Bee Colony for Cardiovascular Disease Classification|2014|International Conference on Electronics and Communication System|---
+Indriyani, Gunawan, W., Rakhmadi, A.|Filter-Wrapper Approach to Feature Selection Using PSO-GA for Arabic Document Classification with Naive Bayes Multinomial|2015|Journal of Computer Engineering|---
+Banati, H., Bajaj, M.|Fire Fly Based Feature Selection Approach|2011|International Journal of Computer Science Issues|---
+Marie-Sainte, S. L., Alalyani, N.|Firefly Algorithm based Feature Selection for Arabic Text Classification|2018|Journal of King Saud University - Computer and Information Sciences |---
+Alghamadi, H. S., Tang, H. L.|Hybrid ACO and TOFA Feature Selection Approach for Text Classification|2012|IEEE Congress on Evolutionary Computation|---
+Mesleh, A. M., Kanaan, G.|Support Vector Machine Text Classification System_ Using Ant Colony Optimization Based Feature Subset Selection|2008|International Conference on Computer Engineering & Systems|---
+Aghdam, M. H., Aghaee, N. G., Basiri, M. E.|Text feature selection using ant colony optimization|2009|Expert Systems with Applications|Q1
+Zahran, B. M., Kanaan, G.|Text Feature Selection using Particle Swarm Optimization Algorithm|2009|World Applied Sciences Journal|---
+Emary, E., Zawbaa, H. M., Ghany, K. K. A., Hassanien A. E., PARV, B.|Firefly Optimization Algorithm for Feature Selection|2015|Balkan Conference in Informatics|---
+Lu, Y., Liang, M., Ye, Z., Cao, L.|Improved particle swarm optimization in algorithm and its application in text feature selection|2015|Applied Soft Computing|---
+Kushwaha, N., Pant, M.|Link based BPSO for feature selection in big data text clustering|2018|Future Generation Computer Systems|---
+Lim, H., Lee, J., Kim, D. W.|Optimization approach for feature selection in multi-label classification|2017|Pattern Recognition Letters|---
+Xue, B., Zhang, M., Browne, W. N.|Particle Swarm Optimization for Feature Selection in Classification_ A Multi-Objective Approach|2012| IEEE Transactions on Cybernetics|---
+Ahmad, S. R., Yusop, N. M. M., Bakar, A. A., Yaakub, M. R.|Statistical Analysis for Validating ACO-KNN Algorithm as Feature Selection in Sentiment Analysis|2017|International Conference on Applied Science and Technology|---
+Sarac, E., Ozel, S. A.|Web Page Classification Using Firefly Optimization|2013|IEEE INISTA|---
