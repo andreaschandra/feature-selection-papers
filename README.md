@@ -37,19 +37,19 @@ Alghamdi, H., Selamat, A.,|The Hybrid Feature Selection k-means Method for Arabi
 Author|Title|Year|Publishing|Journal Ranking
 ---|---|---|---|---
 Belkebir, R., Guessoum, A.|A Hybrid BSO-Chi2-SVM Approach to Arabic Text Categorization|2013|ACS International Conference on Computer Systems and Applications (AICCSA)|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
----|---|---|---|---
+---|A VNS algorithm for feature selection in hierarchical classiﬁcation context|---|---|---
+---|Feature Selection using Artificial Bee Colony for Cardiovascular Disease Classification|---|---|---
+---|Filter-Wrapper Approach to Feature Selection Using PSO-GA for Arabic Document Classification with Naive Bayes Multinomial|---|---|---
+---|Fire Fly Based Feature Selection Approach|---|---|---
+---|Firefly Algorithm based Feature Selection for Arabic Text Classification|---|---|---
+---|Hybrid ACO and TOFA Feature Selection Approach for Text Classification|---|---|---
+---|Support Vector Machine Text Classification System_ Using Ant Colony Optimization Based Feature Subset Selection|---|---|---
+---|Text feature selection using ant colony optimization|---|---|---
+---|Text Feature Selection using Particle Swarm Optimization Algorithm|---|---|---
+---|Firefly Optimization Algorithm for Feature Selection|---|---|---
+---|Improved particle swarm optimization in algorithm and its application in text feature selection|---|---|---
+---|Link based BPSO for feature selection in big data text clustering|---|---|---
+---|Optimization approach for feature selection in multi-label classification|---|---|---
+---|Particle Swarm Optimization for Feature Selection in Classification_ A Multi-Objective Approach|---|---|---
+---|Statistical Analysis for Validating ACO-KNN Algorithm as Feature Selection in Sentiment Analysis|---|---|---
+---|Web Page Classification Using Firefly Optimization|---|---|---
